@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swlee052&layout=compact&theme=tokyonight)
 
 - 🌱 I’m currently learning: TypeScript, NestJS, Node.js, MongoDB Realm
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/swlee052) swlee052@gmail.com / 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swlee052/) [Email](mailto:swlee052@gmail.com) 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I like playing basketball!
 

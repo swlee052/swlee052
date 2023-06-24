@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning: TypeScript, NestJS, Node.js, MongoDB Realm
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swlee052/) [Email](mailto:swlee052@gmail.com) 
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I like playing basketball!
 
 <!--
 **swlee052/swlee052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

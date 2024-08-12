@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 I am a software engineer with a focus on backend development. In my previous role at Milliman, I worked on developing software applications for actuarial modeling.
-I also have a deep interest in science, especially physics.
-
-- 🔭 I’m currently working on: A full-stack web application that helps users study vocabulary
-- 🌱 I’m currently learning: React, Kubernetes, Spring boot, AWS
-- 🤔 Long-term goals: NextJS, Redux, Recoil, Go, Rust
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swlee052/) [Email](mailto:swlee052@gmail.com) 
-
 
 ### Tech Stack 👨🏻‍💻
 - Frontend / Desktop: React, HTML, CSS, Electron, WinForms, DevExpress

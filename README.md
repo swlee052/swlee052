@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with a focus on backend development. In my previous role at Milliman, I worked on developing software applications for actuarial modeling.
+I am a software engineer with a focus on backend development.
 
 ### Tech Stack 👨🏻‍💻
 - Frontend / Desktop: React, Blazor, Electron, HTML, CSS
